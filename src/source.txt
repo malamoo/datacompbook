@@ -1,0 +1,14 @@
+One important method of transmitting messages is to transmit in their place
+sequences of symbols. If there are more messages which might be sent than there
+are kinds of symbols available, then some of the messages must use more than one
+symbol. If it is assumed that each symbol requires the same time for
+transmission, then the time for transmission (length) of a message is directly
+proportional to the number of symbols associated with it. In this paper, the
+symbol or sequence of symbols associated with a given message will be called
+the "message code." The entire number of messages which might be transmitted
+will be called the "message ensemble." The mutual agreement between the
+transmitter and the receiver about the meaning of the code for each message of
+the ensemble will be called the "ensemble code." Probably the most familiar
+ensemble code was stated in the phrase "one if by land and two if by sea." In
+this case, the message ensemble consisted of the two individual messages "by
+land" and "by sea", and the message codes were "one" and "two".
